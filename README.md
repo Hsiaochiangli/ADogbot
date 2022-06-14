@@ -1,2 +1,3 @@
 # Dogbot
-Quadruped Robot Demos
+
+Freshman in ROS, Quadruped Robot Demos
