@@ -2,7 +2,7 @@
 
 A freshman in robotics, this is a practice demo for quadruped robot in learing period.
 
-Runtime environment:ROS2 humble and Ubuntu 22.04
+Runtime environment: ROS2 humble and Ubuntu 22.04
 
 
 ## Roadmap
